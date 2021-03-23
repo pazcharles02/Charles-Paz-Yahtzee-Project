@@ -1,6 +1,6 @@
 # Charles Paz Yahtzee Project (Python)
 ***
-*This project was created as part of a final exam during BCIT CST's COMP 1510 Course*
+*This project was created as part of BCIT CST's COMP 1510 Course*
 
 This is an implementation of the classic Yahtzee! board game in Python! The result is a terminal program in which users can input values to play the entire Yahtzee! game with two people only using a Numpad!
 
